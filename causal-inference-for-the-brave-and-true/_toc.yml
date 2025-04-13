@@ -1,41 +1,41 @@
 format: jb-book
-root: landing-page
+root: landing-page # DONE
 parts:
-- caption: Part I - The Yang
+- caption: Part I - The Yang # DONE
   chapters:
-  - file: 01-Introduction-To-Causality.ipynb
-  - file: 02-Randomised-Experiments.ipynb
-  - file: 03-Stats-Review-The-Most-Dangerous-Equation.ipynb
-  - file: 04-Graphical-Causal-Models.ipynb
-  - file: 05-The-Unreasonable-Effectiveness-of-Linear-Regression.ipynb
-  - file: 06-Grouped-and-Dummy-Regression.ipynb
-  - file: 07-Beyond-Confounders.ipynb
-  - file: 08-Instrumental-Variables.ipynb
-  - file: 09-Non-Compliance-and-LATE.ipynb
-  - file: 10-Matching.ipynb
-  - file: 11-Propensity-Score.ipynb
-  - file: 12-Doubly-Robust-Estimation.ipynb
-  - file: 13-Difference-in-Differences.ipynb
-  - file: 14-Panel-Data-and-Fixed-Effects.ipynb
-  - file: 15-Synthetic-Control.ipynb
-  - file: 16-Regression-Discontinuity-Design.ipynb
+  - file: 01-Introduction-To-Causality.ipynb # DONE
+  - file: 02-Randomised-Experiments.ipynb # DONE
+  - file: 03-Stats-Review-The-Most-Dangerous-Equation.ipynb # DONE
+  - file: 04-Graphical-Causal-Models.ipynb # DONE
+  - file: 05-The-Unreasonable-Effectiveness-of-Linear-Regression.ipynb # DONE
+  - file: 06-Grouped-and-Dummy-Regression.ipynb # DONE
+  - file: 07-Beyond-Confounders.ipynb # DONE
+  - file: 08-Instrumental-Variables.ipynb # DONE
+  - file: 09-Non-Compliance-and-LATE.ipynb # DONE
+  - file: 10-Matching.ipynb # DONE
+  - file: 11-Propensity-Score.ipynb # DONE
+  - file: 12-Doubly-Robust-Estimation.ipynb # DONE
+  - file: 13-Difference-in-Differences.ipynb # DONE
+  - file: 14-Panel-Data-and-Fixed-Effects.ipynb # DONE
+  - file: 15-Synthetic-Control.ipynb # DONE
+  - file: 16-Regression-Discontinuity-Design.ipynb # DONE
 - caption: Part II - The Yin
   chapters:
-  - file: 17-Predictive-Models-101.ipynb
-  - file: 18-Heterogeneous-Treatment-Effects-and-Personalization.ipynb
-  - file: 19-Evaluating-Causal-Models.ipynb
-  - file: 20-Plug-and-Play-Estimators.ipynb
-  - file: 21-Meta-Learners.ipynb
+  - file: 17-Predictive-Models-101.ipynb # DONE
+  - file: 18-Heterogeneous-Treatment-Effects-and-Personalization.ipynb # DONE
+  - file: 19-Evaluating-Causal-Models.ipynb # DONE
+  - file: 20-Plug-and-Play-Estimators.ipynb # DONE
+  - file: 21-Meta-Learners.ipynb # DONE
   - file: 22-Debiased-Orthogonal-Machine-Learning.ipynb
   - file: 23-Challenges-with-Effect-Heterogeneity-and-Nonlinearity.ipynb
   - file: 24-The-Diff-in-Diff-Saga.ipynb
   - file: 25-Synthetic-Diff-in-Diff.ipynb
 - caption: Appendix
   chapters:
-  - file: Debiasing-with-Orthogonalization.ipynb
-  - file: Debiasing-with-Propensity-Score.ipynb
-  - file: When-Prediction-Fails.ipynb
-  - file: Prediction-Metrics-For-Causal-Models.ipynb
+  - file: Debiasing-with-Orthogonalization.ipynb # DONE
+  - file: Debiasing-with-Propensity-Score.ipynb # DONE
+  - file: When-Prediction-Fails.ipynb # DONE
+  - file: Prediction-Metrics-For-Causal-Models.ipynb # DONE
   - file: Conformal-Inference-for-Synthetic-Control.ipynb
 - caption: Contribute
   chapters:
