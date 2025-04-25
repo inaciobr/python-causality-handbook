@@ -26,7 +26,7 @@ parts:
   - file: 19-Evaluating-Causal-Models.ipynb # DONE
   - file: 20-Plug-and-Play-Estimators.ipynb # DONE
   - file: 21-Meta-Learners.ipynb # DONE
-  - file: 22-Debiased-Orthogonal-Machine-Learning.ipynb
+  - file: 22-Debiased-Orthogonal-Machine-Learning.ipynb # DONE
   - file: 23-Challenges-with-Effect-Heterogeneity-and-Nonlinearity.ipynb
   - file: 24-The-Diff-in-Diff-Saga.ipynb
   - file: 25-Synthetic-Diff-in-Diff.ipynb
