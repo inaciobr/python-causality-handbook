@@ -20,7 +20,7 @@
 - [x] [20-Plug-and-Play-Estimators.ipynb](causal-inference-for-the-brave-and-true/20-Plug-and-Play-Estimators.ipynb)
 - [x] [21-Meta-Learners.ipynb](causal-inference-for-the-brave-and-true/21-Meta-Learners.ipynb)
 - [x] [22-Debiased-Orthogonal-Machine-Learning.ipynb](causal-inference-for-the-brave-and-true/22-Debiased-Orthogonal-Machine-Learning.ipynb)
-- [ ] [23-Challenges-with-Effect-Heterogeneity-and-Nonlinearity.ipynb](causal-inference-for-the-brave-and-true/23-Challenges-with-Effect-Heterogeneity-and-Nonlinearity.ipynb)
+- [x] [23-Challenges-with-Effect-Heterogeneity-and-Nonlinearity.ipynb](causal-inference-for-the-brave-and-true/23-Challenges-with-Effect-Heterogeneity-and-Nonlinearity.ipynb)
 - [ ] [24-The-Diff-in-Diff-Saga.ipynb](causal-inference-for-the-brave-and-true/24-The-Diff-in-Diff-Saga.ipynb)
 - [ ] [25-Synthetic-Diff-in-Diff.ipynb](causal-inference-for-the-brave-and-true/25-Synthetic-Diff-in-Diff.ipynb)
 - [ ] [Conformal-Inference-for-Synthetic-Control.ipynb](causal-inference-for-the-brave-and-true/Conformal-Inference-for-Synthetic-Control.ipynb)
